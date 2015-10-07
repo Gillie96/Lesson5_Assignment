@@ -43,6 +43,7 @@ function addColumnHeaders() {
 
 
 
+
 // within each table data cell that has an id 
 function addCalendarDates() {
 
